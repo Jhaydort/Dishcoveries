@@ -1186,6 +1186,17 @@ input{
     }
 }
 
+@media (max-width: 360px) {
+
+    .recipe-container {
+        width: 9.5rem;
+    }
+   
+
+
+    
+}
+
 
 
 
