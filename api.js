@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 export async function getTotalRecipeCount() {
     const letters = "abcdefghijklmnopqrstuvwxyz".split("");
     let total = 0;
@@ -60,7 +59,6 @@ export async function getTotalRecipeCount() {
 
 
 
-=======
 export async function getTotalRecipeCount() {
     const letters = "abcdefghijklmnopqrstuvwxyz".split("");
     let total = 0;
@@ -122,5 +120,4 @@ export async function getTotalRecipeCount() {
 
 
 
->>>>>>> 4d35db2784c427ae6594a67efa60cf8a1abd2c35
   

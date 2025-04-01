@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import { getTotalRecipeCount, getTotalIngredientCount, } from './api.js';
 import {setupSearchForm } from './newSearch.js';
 
@@ -276,7 +276,7 @@ document.addEventListener('DOMContentLoaded', loadRecipeDetails);
 document.addEventListener('DOMContentLoaded', setupSearchForm);
 
 
-=======
+
 import { getTotalRecipeCount, getTotalIngredientCount, } from './api.js';
 import {setupSearchForm } from './newSearch.js';
 
@@ -554,4 +554,3 @@ document.addEventListener('DOMContentLoaded', loadRecipeDetails);
 document.addEventListener('DOMContentLoaded', setupSearchForm);
 
 
->>>>>>> 4d35db2784c427ae6594a67efa60cf8a1abd2c35

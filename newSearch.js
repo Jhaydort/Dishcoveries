@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 export function setupSearchForm() {
     const searchForm = document.getElementById('serach-form'); // Keeping original ID
     const searchInput = document.getElementById('search-input');
@@ -195,7 +194,6 @@ export function setupSearchForm() {
     }
     
 }
-=======
 export function setupSearchForm() {
     const searchForm = document.getElementById('serach-form'); // Keeping original ID
     const searchInput = document.getElementById('search-input');
@@ -392,4 +390,3 @@ export function setupSearchForm() {
     }
     
 }
->>>>>>> 4d35db2784c427ae6594a67efa60cf8a1abd2c35
